@@ -1,0 +1,11 @@
+# Default configuration for comparison widget export
+# Uses the five submissions from examples/5_multicomparison_plots.ipynb
+
+submissions:
+  'Sage 2.1.1 (ff14SB) TIP3P': '2026-08-25_ff14sb_openff-2.1.1_jacs'
+  'Sage 2.3.0 (ff14SB) TIP3P': '2026-02-12_sage_230_jacs_set'
+  'Sage 3.0.0-$\alpha_{1b}$ TIP3P': '2026-08-05-openff3.0.0-alpha1b_tip3p-jacs'
+  'Sage 3.0.0-$\alpha_{1b}$ (ff14SB) TIP3P': '2026-08-05_ff14sb_openff-3.0.0-alpha1b_tip3p_jacs_tyk2_thrombin'
+  'Sage 2.3.0 (ff14SB) OPC3': '2026-09-03_openff-2.3.0_opc3_jacs_set'
+  'Sage 3.0.0-$\alpha_0$ OPC3': '2026-08-05_openff-3.0.0-alpha0_opc3_jacs'
+  'Sage 3.0.0-$\alpha_{1b}$ OPC3': '2026-08-04-openff3.0.0-alpha1b_opc3-jacs'

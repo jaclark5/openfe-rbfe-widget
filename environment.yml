@@ -1,0 +1,22 @@
+name: openfe
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - click
+  - numpy
+  - pandas
+  - pyyaml
+  - rdkit
+  - nodejs
+  - gufe
+  - openfe>=1.9
+  - openfe-base
+  - py3dmol
+  - pytest
+  - pre-commit
+  - pontibus>=0.4.0
+  - pint
+  - cinnabar>=0.6.1
+  - pip:
+      - git+https://github.com/OpenFreeEnergy/openfe-benchmarks.git
