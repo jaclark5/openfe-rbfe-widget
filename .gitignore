@@ -2,3 +2,4 @@
 .agents/
 .vscode/
 .DS_Store
+results/examples/outputs/*
